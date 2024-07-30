@@ -1,0 +1,36 @@
+{
+    "streams": [
+        {
+            "index": 0,
+            "output_file": "uploads\\20240728235002\\track_0.mp4"
+        },
+        {
+            "index": 1,
+            "output_file": "uploads\\20240728235002\\track_1.m4a"
+        },
+        {
+            "index": 2,
+            "output_file": "uploads\\20240728235002\\track_2.m4a"
+        },
+        {
+            "index": 3,
+            "output_file": "uploads\\20240728235002\\track_3.m4a"
+        },
+        {
+            "index": 4,
+            "output_file": "uploads\\20240728235002\\track_4.m4a"
+        },
+        {
+            "index": 5,
+            "output_file": "uploads\\20240728235002\\track_5.vtt"
+        },
+        {
+            "index": 6,
+            "output_file": "uploads\\20240728235002\\track_6.vtt"
+        },
+        {
+            "index": 7,
+            "output_file": "uploads\\20240728235002\\track_7.vtt"
+        }
+    ]
+}
